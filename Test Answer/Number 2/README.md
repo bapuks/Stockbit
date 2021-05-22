@@ -9,6 +9,7 @@
   >5. My movie Page. Showing movie list favorite
   >6. Remove star buttom, this button function to remove movie from my list
 
+
 >Technology Stack used for the apps are:
 
   >1. React
